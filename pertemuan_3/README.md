@@ -2,8 +2,8 @@
 Berlangsung pada 28 Maret 2017, 13.00-15.00 WIB @ [QODR HQ](https://goo.gl/maps/MBNM8tfTmd82)
 
 ## HTML QUOTATIONS
-- tag `<q>` untuk teks kutipan atau testimoni pendek. -> akan diapit oleh tanda peti dua `""`
-= tag `<blockquote>` untuk teks kutipan atau testimoni panjang. -> otomatis membuat margin.
+- tag `<q>` untuk teks kutipan atau testimoni pendek. -> akan diapit oleh tanda petik dua `""`
+- tag `<blockquote>` untuk teks kutipan atau testimoni panjang. -> otomatis membuat margin.
 - tag `<abbr>` untuk menjelaskan sebuah singkatan.
 - tag `<address>` untuk menuliskan alamat. -> default: `font-style: italic`
 - tag `<cite>` untuk menjelaskan `title` dari suatu karya.
